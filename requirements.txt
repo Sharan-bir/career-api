@@ -3,3 +3,4 @@ djangorestframework>=3.16.0
 django-cors-headers>=4.7.0
 Pillow>=10.2.0  # For image handling
 python-dotenv>=1.0.0  # For environment variables 
+gunicorn>=23.0.0
