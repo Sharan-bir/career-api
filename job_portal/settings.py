@@ -141,3 +141,4 @@ CORS_ALLOW_ALL_ORIGINS = True  # For development only, configure properly for pr
 # Media files configuration
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+STATIC_ROOT = '/staticfiles/'
